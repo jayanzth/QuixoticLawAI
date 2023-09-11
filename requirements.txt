@@ -1,0 +1,6 @@
+streamlit
+langchain
+numpy
+pandas
+python-dotenv
+transformers
