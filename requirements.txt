@@ -5,4 +5,7 @@ pandas
 python-dotenv
 transformers
 huggingface
+InstructorEmbedding
+torch
 PyPDF2
+sentence_transformers
